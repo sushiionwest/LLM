@@ -1,0 +1,21 @@
+[2025-02-19 12:22:37.394234] Query: yoyo
+AI Response: Response for query: yoyo
+
+[2025-02-19 12:23:08.638250] Query: what color is the sky?
+AI Response: Response for query: what color is the sky?
+
+[2025-02-19 12:26:50.467434] Query: what color is the sky?
+AI Response: Response for query: what color is the sky?
+
+[2025-02-19 12:27:40.247127] Query: grab info
+AI Response: Response for query: grab info
+
+[2025-02-19 12:29:59.420731] Query: what color is the sky?
+AI Response: Response for query: what color is the sky?
+
+[2025-02-19 12:35:56.799830] Query: test
+AI Response: Response for query: test
+
+[2025-02-19 12:36:03.274132] Query: test
+AI Response: Response for query: test
+
